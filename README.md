@@ -1,4 +1,3 @@
-# Rock-Paper-Scissor-Python-Project
 # Rock-Paper-Scissors Game 🎮
 
 ## 📌 Logic of the Program
@@ -19,8 +18,3 @@
      - Scissor vs Paper → **User Wins** (Scissor cuts Paper)
      - Scissor vs Rock → **Computer Wins** (Rock breaks Scissor)
 7. Print the result accordingly.
-
----
-
-## 🖥️ Example Gameplay
-
